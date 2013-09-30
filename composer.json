@@ -10,12 +10,6 @@
             "email": "mark@wamweb.co.uk"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Bogsey/php-airbrake"
-        }
-    ],
     "require": {
         "dbtlr/php-airbrake": "dev-master"
     }
