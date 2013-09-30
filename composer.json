@@ -1,0 +1,22 @@
+{
+    "name": "bogsey/yii-airbrake",
+    "description": "Sends errors and exceptions in yii to an Airbrake server",
+    "keywords": ["yii", "airbrake"],
+    "type": "yii-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Mark Joyner",
+            "email": "mark@wamweb.co.uk",
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Bogsey/php-airbrake"
+        }
+    ],
+    "require": {
+        "dbtlr/php-airbrake": "dev-master"
+    }
+}
